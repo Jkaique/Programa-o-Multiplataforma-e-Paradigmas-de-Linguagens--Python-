@@ -1,0 +1,1 @@
+# Programa-o-Multiplataforma-e-Paradigmas-de-Linguagens--Python-
